@@ -24,3 +24,7 @@ Python, GeoPandas, ArcPy, Pandas, NumPy, Statsmodels, Matplotlib, Contextily, an
 - CapMetro GTFS data
 - U.S. Census Bureau Census Tract boundaries
 - American Community Survey (ACS) household income data
+
+## Running the Project
+
+Download and extract `AustinTransitAccessibilityProjectData.zip`, place the extracted files in the same directory as `Austin_Transit_Accessibility_Priject.ipynb`, then open the notebook from that directory and run all cells.
